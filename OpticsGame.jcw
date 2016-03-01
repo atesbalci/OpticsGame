@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>OpticsGame</label>
+	</settings>
+	<users>
+		<user>
+			<path>OpticsGame.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>OpticsGame\OpticsGame.jcp</path>
+		</project>
+	</projects>
+</workspace>
